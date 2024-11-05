@@ -1,0 +1,11 @@
+date,amount,category,description
+05-11-2024,125.0,Food,Groceries
+05-11-2024,125.0,Income,Salary
+date_format,1000.0,Income,blabla
+10-10-2020,2000.0,Income,super
+10-10-2023,2300.0,Income,dsa
+04-11-2024,2000.0,Income,wyplata
+20-10-2020,3000.0,Income,super
+20-10-2020,2000.0,Income,DSA
+10-10-2020,2000.0,Expense,wydatek
+11-10-2021,1000.0,Income,przyplyw
